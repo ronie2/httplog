@@ -2,7 +2,9 @@ import asyncio
 from aiohttp import web
 
 from conf import cfg
-from handles import *
+
+async def hello(request):
+    return web.Response(body = b"Hello, world!")
 
 app = web.Application()
 
