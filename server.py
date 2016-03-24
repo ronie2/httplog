@@ -1,8 +1,7 @@
-import asyncio
 from aiohttp import web
 
-from conf import cfg
-from handles import *
+from handles.handles import *
+from config.conf import cfg
 
 app = web.Application()
 
