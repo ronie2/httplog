@@ -3,11 +3,10 @@
 cfg = {
     "service": {
         "home": {
-             "host": "http://127.0.0.1",
-             "port": ":8080",
-             "resource": "",
-                }
-        },
+            "host": "http://127.0.0.1",
+            "port": ":8080",
+            }
+            },
     "server": {
         "new-inspections": {
             "GET": {
