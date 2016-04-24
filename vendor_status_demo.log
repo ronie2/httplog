@@ -1,0 +1,456 @@
+
+**************************************************
+2016-04-19 10:44:30.154670
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+HOST: 10.24.64.112:5000
+CONNECTION: keep-alive
+CONTENT-LENGTH: 4
+ORIGIN: chrome-extension://aejoelaoggembcahagimdiliamlcdmfm
+USER-AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+CONTENT-TYPE: text/plain
+ACCEPT: */*
+ACCEPT-ENCODING: gzip, deflate
+ACCEPT-LANGUAGE: en-US,en;q=0.8,uk;q=0.6,ru;q=0.4
+COOKIE: gsScrollPos=2998.4; gsScrollPos=0
+
+BODY:
+***
+TEST
+
+**************************************************
+2016-04-19 10:44:32.682172
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+HOST: 10.24.64.112:5000
+CONNECTION: keep-alive
+CONTENT-LENGTH: 4
+ORIGIN: chrome-extension://aejoelaoggembcahagimdiliamlcdmfm
+USER-AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+CONTENT-TYPE: text/plain
+ACCEPT: */*
+ACCEPT-ENCODING: gzip, deflate
+ACCEPT-LANGUAGE: en-US,en;q=0.8,uk;q=0.6,ru;q=0.4
+COOKIE: gsScrollPos=2998.4; gsScrollPos=0
+
+BODY:
+***
+TEST
+
+**************************************************
+2016-04-19 10:44:34.831862
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+HOST: 10.24.64.112:5000
+CONNECTION: keep-alive
+CONTENT-LENGTH: 4
+ORIGIN: chrome-extension://aejoelaoggembcahagimdiliamlcdmfm
+USER-AGENT: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+CONTENT-TYPE: text/plain
+ACCEPT: */*
+ACCEPT-ENCODING: gzip, deflate
+ACCEPT-LANGUAGE: en-US,en;q=0.8,uk;q=0.6,ru;q=0.4
+COOKIE: gsScrollPos=2998.4; gsScrollPos=0
+
+BODY:
+***
+TEST
+
+**************************************************
+2016-04-19 12:07:52.955299
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 0a947c83509563116713ac03f7b67307
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 401
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa25211","fname":"Adam","lname":"Peck","email":"qa25211@worldapp.com","vndid":"qa25211","mstrvndid":"qa25211","usrtyp":"Vendor","pwd":"qa25211","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa82320","fname":"Arturo","lname":"Widner","email":"qa82320@worldapp.com","vndid":"qa82320","mstrvndid":"qa25211","usrtyp":"Sub-Vendor","pwd":"qa82320","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-20 07:46:35.627878
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=1&rAcceptedResult=Job+Accepted&fmReoId=QA92089&taskUid=6eb15372-c47f-4bae-a09d-e9fd501bd15b&SUBMIT=
+
+**************************************************
+2016-04-20 11:37:33.069081
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=1&rAcceptedResult=Job+Accepted&fmReoId=QA64517&taskUid=d3d761be-a828-4998-ba91-e7c72a4fcc44&SUBMIT=
+
+**************************************************
+2016-04-21 03:55:46.757168
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=8&rAcceptedResult=Job+Accepted&fmReoId=QA28182&taskUid=2eda0b18-a1bd-4fdb-a517-8bdc8b6033be&SUBMIT=
+
+**************************************************
+2016-04-21 03:56:41.543175
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 107
+
+BODY:
+***
+fmUnitNum=6&rAcceptedResult=Reject+Job&fmReoId=QA50894&taskUid=78463486-b40f-40a1-8e02-d00107c34f22&SUBMIT=
+
+**************************************************
+2016-04-21 04:09:48.237493
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=6&rAcceptedResult=Reject+Job&fmReoId=QA50894&taskUid=78463486-b40f-40a1-8e02-d00107c34f22_1&SUBMIT=
+
+**************************************************
+2016-04-21 04:27:53.852503
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 111
+
+BODY:
+***
+fmUnitNum=8&rAcceptedResult=Job+Accepted&fmReoId=QA28182&taskUid=2eda0b18-a1bd-4fdb-a517-8bdc8b6033be_1&SUBMIT=
+
+**************************************************
+2016-04-21 04:36:19.772431
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=6&rAcceptedResult=Reject+Job&fmReoId=QA50894&taskUid=78463486-b40f-40a1-8e02-d00107c34f22_2&SUBMIT=
+
+**************************************************
+2016-04-21 04:47:10.075387
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 111
+
+BODY:
+***
+fmUnitNum=6&rAcceptedResult=Job+Accepted&fmReoId=QA50894&taskUid=78463486-b40f-40a1-8e02-d00107c34f22_3&SUBMIT=
+
+**************************************************
+2016-04-21 05:21:32.253082
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 111
+
+BODY:
+***
+fmUnitNum=8&rAcceptedResult=Job+Accepted&fmReoId=QA28182&taskUid=2eda0b18-a1bd-4fdb-a517-8bdc8b6033be_2&SUBMIT=
+
+**************************************************
+2016-04-22 06:37:57.849692
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 2446b12467bef622882cdffe55092465
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 205
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa82320","fname":"Arturo","lname":"Widner","email":"qa82320@worldapp.com","vndid":"qa82320","mstrvndid":"qa35276","usrtyp":"Sub-Vendor","pwd":"qa82320","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 06:57:57.820792
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 54ecf0d5d9b0560178c2637a4b0560ec
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 205
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa82320","fname":"Arturo","lname":"Widner","email":"qa82320@worldapp.com","vndid":"qa82320","mstrvndid":"qa25211","usrtyp":"Sub-Vendor","pwd":"qa82320","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 07:57:58.097939
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer ae0f8f24a391dd50f5b085d4b492f465
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 605
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa82320","fname":"Arturo","lname":"Widner","email":"qa82320@worldapp.com","vndid":"qa82320","mstrvndid":"qa25211","usrtyp":"Sub-Vendor","pwd":"qa82320","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa82320","fname":"Arturo","lname":"Widner","email":"qa82320@worldapp.com","vndid":"qa82320","mstrvndid":"qa25211","usrtyp":"Sub-Vendor","pwd":"qa82320","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa25211","fname":"Adam","lname":"Peck","email":"qa25211@worldapp.com","vndid":"qa25211","mstrvndid":"qa25211","usrtyp":"Vendor","pwd":"qa25211","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 09:37:58.022519
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 1f40e3df2958b191139b5e8ba9e3179f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 405
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa35804","fname":"Dianne","lname":"Trevino","email":"qa35804@worldapp.com","vndid":"qa35804","mstrvndid":"qa35804","usrtyp":"Vendor","pwd":"qa35804","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa24589","fname":"Susan","lname":"Bohman","email":"qa24589@worldapp.com","vndid":"qa24589","mstrvndid":"qa35804","usrtyp":"Sub-Vendor","pwd":"qa24589","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 10:09:57.858115
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+COOKIE: 
+CONTENT-TYPE: application/x-www-form-urlencoded; charset=UTF-8
+ACCEPT-CHARSET: UTF-8;q=0.7,*;q=0.7
+CACHE-CONTROL: no-cache
+PRAGMA: no-cache
+USER-AGENT: Java/1.7.0_91
+HOST: 10.24.64.112:5000
+ACCEPT: text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+CONNECTION: keep-alive
+CONTENT-LENGTH: 109
+
+BODY:
+***
+fmUnitNum=7&rAcceptedResult=Job+Accepted&fmReoId=QA63038&taskUid=844ab561-090a-4378-a46b-1c981d5e3d47&SUBMIT=
+
+**************************************************
+2016-04-22 10:27:58.078541
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer f1d2776ef3135755606b63fe69d6406a
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 608
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa24589","fname":"Susan","lname":"Bohman","email":"qa24589@worldapp.com","vndid":"qa24589","mstrvndid":"qa35804","usrtyp":"Sub-Vendor","pwd":"qa24589","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa24589","fname":"Susan","lname":"Bohman","email":"qa24589@worldapp.com","vndid":"qa24589","mstrvndid":"qa35804","usrtyp":"Sub-Vendor","pwd":"qa24589","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa35804","fname":"Dianne","lname":"Trevino","email":"qa35804@worldapp.com","vndid":"qa35804","mstrvndid":"qa35804","usrtyp":"Vendor","pwd":"qa35804","messageCode":"USR_OK"}]

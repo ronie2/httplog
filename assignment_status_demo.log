@@ -1,0 +1,359 @@
+**************************************************
+2016-04-19 11:44:52.922206
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer a6e55bf64a1b1a6078be0602a89c476c
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 4243
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"24522bf6-a3f6-4589-a139-5b3840afe645","qcid":"WA_TEST","reoid":"QA53286","unitnum":8,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"324dd445-3633-4b25-878d-614157d3a129","qcid":"WA_TEST","reoid":"QA78656","unitnum":3,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"56cc4475-0d1e-4811-ae76-55a0455a3a23","qcid":"WA_TEST","reoid":"QA79032","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"298a9c04-a773-45ba-a5f3-0df3c03de21b","qcid":"WA_TEST","reoid":"QA67400","unitnum":1,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"79ab7119-6f1f-43b7-baf6-da3276ba7e66","qcid":"WA_TEST","reoid":"QA40516","unitnum":5,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"a77eed6c-75f8-4960-b8a6-395e0a34d209","qcid":"WA_TEST","reoid":"QA88225","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"64eeeb0d-1531-4fa4-82ed-41d37405414a","qcid":"WA_TEST","reoid":"QA55861","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"302c254e-652f-451c-9d1e-b91705269568","qcid":"WA_TEST","reoid":"QA55661","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"0ac57038-62d3-40b6-841f-b8100ecc5522","qcid":"WA_TEST","reoid":"QA52997","unitnum":7,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"acb79c13-1eab-4acb-a03a-981127ca9637","qcid":"WA_TEST","reoid":"QA69287","unitnum":7,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"f502bbc6-d1fa-4f60-a48a-d311c6fe95e1","qcid":"WA_TEST","reoid":"QA31729","unitnum":5,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"5c293984-7ab3-404a-990a-760000e6c2a4","qcid":"WA_TEST","reoid":"QA76746","unitnum":5,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"cd1db5a4-5867-41b0-acca-e526b5bd5acb","qcid":"WA_TEST","reoid":"QA91331","unitnum":3,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"6bb587ad-92bb-432a-9525-f8b820916eae","qcid":"WA_TEST","reoid":"QA28966","unitnum":7,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"caaa86f2-94a3-445b-9535-bfefd19cf6dc","qcid":"WA_TEST","reoid":"QA24780","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"99c74d65-58e0-4568-85c1-ad796a949192","qcid":"WA_TEST","reoid":"QA28926","unitnum":8,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"02ef1c01-ab60-40d5-a998-45075a59bf0f","qcid":"WA_TEST","reoid":"QA43526","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"dee236af-8cee-489a-b58f-b7899eb0bd62","qcid":"WA_TEST","reoid":"QA92481","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"b1c2d948-c860-4bb0-b01b-e0cf3544cab4","qcid":"WA_TEST","reoid":"QA86203","unitnum":6,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"bccdbc57-110d-4ed3-89ce-82f7530fcf3c","qcid":"WA_TEST","reoid":"QA55075","unitnum":4,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null},{"wauid":"6775f00c-5d4b-4ae0-9b29-db0698e58522","qcid":"WA_TEST","reoid":"QA17708","unitnum":8,"assigneeuser":"qa20192","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461079830056,"billingid":null}]
+
+**************************************************
+2016-04-20 05:14:54.293883
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer c01b9756d45e5a97b400f51a28a798c2
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 4243
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"3ef190b6-01d4-491f-99d4-67651d912ef8","qcid":"WA_TEST","reoid":"QA44067","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"fcf75ea9-42ba-4ec3-923b-36721554076a","qcid":"WA_TEST","reoid":"QA81994","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"38b109a9-f430-40a5-a133-00e2cc2bf075","qcid":"WA_TEST","reoid":"QA21049","unitnum":3,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"eb6f0f4f-6113-453c-8ec8-cc6ff58e3c97","qcid":"WA_TEST","reoid":"QA72671","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"f5ebf871-db3c-4bff-ab66-176c33e63c5a","qcid":"WA_TEST","reoid":"QA52127","unitnum":3,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"d5f43c38-9cf1-4043-8767-b4f79dc9c824","qcid":"WA_TEST","reoid":"QA89829","unitnum":8,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"32d35260-ecf6-4f67-9a81-5b4f8c0a327b","qcid":"WA_TEST","reoid":"QA90739","unitnum":1,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"14057567-0f11-4bd0-b71a-cea6c189615a","qcid":"WA_TEST","reoid":"QA14936","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"3efaec7d-d493-48b5-bae3-d3764409babd","qcid":"WA_TEST","reoid":"QA56069","unitnum":8,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"beb0f4e1-7b24-4696-8b19-428037ac83a7","qcid":"WA_TEST","reoid":"QA32345","unitnum":8,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"0894efe2-65ed-4879-a87b-f5ae61f4f756","qcid":"WA_TEST","reoid":"reo1010","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"958eeb60-95ef-4bbe-8d41-206ead6bff16","qcid":"WA_TEST","reoid":"QA45421","unitnum":3,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"24d20f46-75fe-4799-b390-2fcd97ed5e24","qcid":"WA_TEST","reoid":"QA83721","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"845fe26d-1e62-4200-bdc1-d0dde2ed1efb","qcid":"WA_TEST","reoid":"QA57147","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"3de4ec8a-c765-4aa3-814a-628fcdd21178","qcid":"WA_TEST","reoid":"QA44593","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"fe76ffb0-5740-4c60-b8a2-df98ff292613","qcid":"WA_TEST","reoid":"QA19770","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"2f47ee69-afbd-489f-8ab5-3f6724ac8711","qcid":"WA_TEST","reoid":"QA20403","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"99888a44-835d-45b0-bebc-6d9343d940eb","qcid":"WA_TEST","reoid":"QA56559","unitnum":8,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"9e12c30d-02b4-449b-8cd8-0bc33ee8a62b","qcid":"WA_TEST","reoid":"QA82501","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"196c8553-b617-405b-934f-f0347c52590a","qcid":"WA_TEST","reoid":"QA64974","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null},{"wauid":"b27c3d64-19a8-4871-a99f-2bbaff4df73e","qcid":"WA_TEST","reoid":"QA32175","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461142830036,"billingid":null}]
+
+**************************************************
+2016-04-20 05:44:54.384873
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 1eaed95057d5bb9b5ebfcdb06ddeb5ab
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"1ac96836-bbb8-494f-93b3-338ffdcee50d","qcid":"WA_TEST","reoid":"QA33067","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461144630043,"billingid":null}]
+
+**************************************************
+2016-04-20 06:14:54.313129
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 111dff4b447c2279b0d623f6ca47582c
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"3efaec7d-d493-48b5-bae3-d3764409babd","qcid":"WA_TEST","reoid":"QA56069","unitnum":8,"assigneeuser":"qa25211","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461146430069,"billingid":null}]
+
+**************************************************
+2016-04-20 06:54:54.435098
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer d03f2306e7064319b8085ab893259254
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"3efaec7d-d493-48b5-bae3-d3764409babd","qcid":"WA_TEST","reoid":"QA56069","unitnum":8,"assigneeuser":"qa25211","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461149430059,"billingid":null}]
+
+**************************************************
+2016-04-20 12:14:54.784557
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 2a74fe544886ac4540a6eb3713ea4737
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 4556
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"3de4ec8a-c765-4aa3-814a-628fcdd21178","qcid":"WA_TEST","reoid":"QA44593","unitnum":7,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_PREVAPPR","receivedat":1461168030055,"billingid":null},{"wauid":"3ef190b6-01d4-491f-99d4-67651d912ef8","qcid":"WA_TEST","reoid":"QA44067","unitnum":5,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"beb0f4e1-7b24-4696-8b19-428037ac83a7","qcid":"WA_TEST","reoid":"QA32345","unitnum":8,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"f5ebf871-db3c-4bff-ab66-176c33e63c5a","qcid":"WA_TEST","reoid":"QA52127","unitnum":3,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"38b109a9-f430-40a5-a133-00e2cc2bf075","qcid":"WA_TEST","reoid":"QA21049","unitnum":3,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"958eeb60-95ef-4bbe-8d41-206ead6bff16","qcid":"WA_TEST","reoid":"QA45421","unitnum":3,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"2f47ee69-afbd-489f-8ab5-3f6724ac8711","qcid":"WA_TEST","reoid":"QA20403","unitnum":2,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"9e12c30d-02b4-449b-8cd8-0bc33ee8a62b","qcid":"WA_TEST","reoid":"QA82501","unitnum":5,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"fe76ffb0-5740-4c60-b8a2-df98ff292613","qcid":"WA_TEST","reoid":"QA19770","unitnum":5,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"b27c3d64-19a8-4871-a99f-2bbaff4df73e","qcid":"WA_TEST","reoid":"QA32175","unitnum":5,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"196c8553-b617-405b-934f-f0347c52590a","qcid":"WA_TEST","reoid":"QA64974","unitnum":4,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"845fe26d-1e62-4200-bdc1-d0dde2ed1efb","qcid":"WA_TEST","reoid":"QA57147","unitnum":2,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"1ac96836-bbb8-494f-93b3-338ffdcee50d","qcid":"WA_TEST","reoid":"QA33067","unitnum":7,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"eb6f0f4f-6113-453c-8ec8-cc6ff58e3c97","qcid":"WA_TEST","reoid":"QA72671","unitnum":2,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"3efaec7d-d493-48b5-bae3-d3764409babd","qcid":"WA_TEST","reoid":"QA56069","unitnum":8,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"99888a44-835d-45b0-bebc-6d9343d940eb","qcid":"WA_TEST","reoid":"QA56559","unitnum":8,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"14057567-0f11-4bd0-b71a-cea6c189615a","qcid":"WA_TEST","reoid":"QA14936","unitnum":2,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"32d35260-ecf6-4f67-9a81-5b4f8c0a327b","qcid":"WA_TEST","reoid":"QA90739","unitnum":1,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"fcf75ea9-42ba-4ec3-923b-36721554076a","qcid":"WA_TEST","reoid":"QA81994","unitnum":7,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"24d20f46-75fe-4799-b390-2fcd97ed5e24","qcid":"WA_TEST","reoid":"QA83721","unitnum":4,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"0894efe2-65ed-4879-a87b-f5ae61f4f756","qcid":"WA_TEST","reoid":"reo1010","unitnum":2,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null},{"wauid":"d5f43c38-9cf1-4043-8767-b4f79dc9c824","qcid":"WA_TEST","reoid":"QA89829","unitnum":8,"assigneeuser":"qa84499","status":"FAILURE","msgcd":"ASGN_BADUSER","receivedat":1461168030055,"billingid":null}]
+
+**************************************************
+2016-04-21 06:04:57.739732
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 9e6fc911419bc4a0919f04f4ab41323f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 4445
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"4fe9150f-0882-428a-8c8d-62777793c02c","qcid":"WA_TEST","reoid":"QA44405","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"1998e8ed-6031-4b9c-b1ad-ac72edf06d3e","qcid":"WA_TEST","reoid":"QA14237","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"923d7039-a68c-4cf0-83e9-efc733bfb683","qcid":"WA_TEST","reoid":"QA25368","unitnum":8,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"b42a8e02-1a78-49b8-9d0f-5257f5a756a0","qcid":"WA_TEST","reoid":"QA34135","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"47c9b7d3-ba9d-4b41-b779-58d5b1fd3b94","qcid":"WA_TEST","reoid":"QA51963","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"ed8f3f94-e5c5-4f54-8e81-866fd2c956f6","qcid":"WA_TEST","reoid":"QA79711","unitnum":6,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"d5d71396-5e74-4b0b-b9dc-cca41cfa5147","qcid":"WA_TEST","reoid":"QA80934","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"02cf6026-ac1f-472a-8987-67c700a0288e","qcid":"WA_TEST","reoid":"QA74537","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"f0ccff03-56cf-4aa0-97d6-c15204469154","qcid":"WA_TEST","reoid":"QA10604","unitnum":1,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"f85e0327-9914-42f7-8242-dae084fac836","qcid":"WA_TEST","reoid":"QA91627","unitnum":5,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"11eba88e-c954-4ff9-a3ce-4546d01a6cb6","qcid":"WA_TEST","reoid":"QA11810","unitnum":6,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"1704ad08-f644-47d5-bf01-f51a93c0aff1","qcid":"WA_TEST","reoid":"QA49048","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"fa94c310-a040-40f9-9ffa-17b23be73224","qcid":"WA_TEST","reoid":"QA58421","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"d9dea9f9-7e9a-463f-b76b-f9ae35065b73","qcid":"WA_TEST","reoid":"QA57281","unitnum":4,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"b5a47ff3-1f7e-480e-b0ee-4c1e6ab516ae","qcid":"WA_TEST","reoid":"QA15070","unitnum":3,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"0ac5ad2f-998c-46e2-98f8-46770f563397","qcid":"WA_TEST","reoid":"QA65511","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"1abe0d84-cea8-493d-abe2-ea0c59512c42","qcid":"WA_TEST","reoid":"QA63038","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"33d6f386-9ac5-48f7-adca-5ed2451e5689","qcid":"WA_TEST","reoid":"QA21039","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"144ff17c-ad08-42ba-b730-3d607be58ba7","qcid":"WA_TEST","reoid":"QA60103","unitnum":6,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"24bd21fe-45f1-4a44-91e5-e3f6a830ed54","qcid":"WA_TEST","reoid":"QA99669","unitnum":2,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"f0fb2b38-727d-4a68-ba59-3a34f365a9fe","qcid":"WA_TEST","reoid":"QA45533","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null},{"wauid":"91c2cb6c-5f96-4d62-b638-fedf4ab3305b","qcid":"WA_TEST","reoid":"QA77474","unitnum":7,"assigneeuser":"qa82320","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461232230064,"billingid":null}]
+
+**************************************************
+2016-04-21 06:24:56.145048
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 1a83e4bba8a8914d33c4ff18c6a34589
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"1abe0d84-cea8-493d-abe2-ea0c59512c42","qcid":"WA_TEST","reoid":"QA63038","unitnum":7,"assigneeuser":"qa63806","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461233430056,"billingid":null}]
+
+**************************************************
+2016-04-21 06:44:56.102878
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer a2175a27dd3a0228d0a76d857c2a8b45
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"1abe0d84-cea8-493d-abe2-ea0c59512c42","qcid":"WA_TEST","reoid":"QA63038","unitnum":7,"assigneeuser":"qa63806","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461234630058,"billingid":null}]
+
+**************************************************
+2016-04-21 09:04:56.262154
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 5d8a8b1b6c3b723a4c3ed1aaff3e29bb
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"f85e0327-9914-42f7-8242-dae084fac836","qcid":"WA_TEST","reoid":"QA91627","unitnum":5,"assigneeuser":"qa63806","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461243030062,"billingid":null}]
+
+**************************************************
+2016-04-22 06:54:57.831052
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 21ddb4d68524c22b062abba3eabc79d2
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 206
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"a866b6f8-6e2a-4ee2-94f1-45ac9c0f2b91","qcid":"WA_TEST","reoid":"QA10926","unitnum":5,"assigneeuser":"qa68365","status":"FAILURE","msgcd":"ASGN_ERROR","receivedat":1460992230068,"billingid":null}]
+
+**************************************************
+2016-04-22 09:04:58.005844
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer eaa68c21bbf1784f2b4fffc135633d6b
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 207
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"c213bd48-246c-47e4-a0cf-ee2b9d216557","qcid":"WA_TEST","reoid":"reo178","unitnum":2,"assigneeuser":"qa63328","status":"FAILURE","msgcd":"ASGN_BADWUID","receivedat":1461329430067,"billingid":null}]
+
+**************************************************
+2016-04-22 09:44:58.036190
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer d8ca1d4ab8416673ba6ebef91b5d85ca
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 208
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"d5d71396-5e74-4b0b-b9dc-cca41cfa5147","qcid":"WA_TEST","reoid":"reo178","unitnum":4,"assigneeuser":"QA80934","status":"FAILURE","msgcd":"ASGN_BADMATCH","receivedat":1461331830046,"billingid":null}]
+
+**************************************************
+2016-04-22 09:54:58.066458
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer c57750d6747f059820a4368567ce6695
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"d6b22291-87e5-4619-bc8f-c537b5b7676a","qcid":"WA_TEST","reoid":"QA84881","unitnum":6,"assigneeuser":"qa24589","status":"SUCCESS","msgcd":"ASGN_OK","receivedat":1461333030060,"billingid":null}]
+
+**************************************************
+2016-04-23 06:54:59.599352
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 8899306b2b7b17a4023f8d250eaadba3
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 206
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"wauid":"395630ba-18b0-4841-adba-38cbf10ae648","qcid":"WA_TEST","reoid":"QA26243","unitnum":6,"assigneeuser":"qa51731","status":"FAILURE","msgcd":"ASGN_ERROR","receivedat":1461078030044,"billingid":null}]

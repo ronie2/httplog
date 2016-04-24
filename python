@@ -1,18 +1,11 @@
-import asyncio
-from aiohttp import web
+log_data = []
 
-from conf import cfg
+sss = ""
+with open("log.log", "r+") as log:
+    for line in log:
+        log_data.append(line)
 
-async def hello(request):
-    return web.Response(body = b"Hello, world!")
+print (sss.join(log_data))
 
-app = web.Application()
-
-for listener in cfg["server"].values():
-    for method in listener.values():
-        calable = method["handle"]
-        app.router.add_route(method["method"],
-                             method["endpoint"],
-                             eval(method["handle"]))
-
-web.run_app(app)
+# for line in log_data:
+#     print(line)

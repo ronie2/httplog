@@ -1,0 +1,471 @@
+
+**************************************************
+2016-03-31 06:37:40.408052
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer db2883d461df31e3e965aecbe1488d56
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 207
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa33655","fname":"Barbara","lname":"Carrier","email":"qa33655@worldapp.com","vndid":"qa33655","mstrvndid":"qa19752","usrtyp":"Sub-Vendor","pwd":"qa33655","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-01 09:37:29.397209
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 91d820b58b60add7053664873a0adc1c
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 205
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa38738","fname":"Dawn","lname":"Williams","email":"qa38738@worldapp.com","vndid":"qa38738","mstrvndid":"qa23879","usrtyp":"Sub-Vendor","pwd":"qa38738","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-01 10:27:27.677789
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer ac3c0477f5460befc215df4601771d13
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 410
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa33655","fname":"Barbara","lname":"Carrier","email":"qa33655@worldapp.com","vndid":"qa33655","mstrvndid":"qa19752","usrtyp":"Sub-Vendor","pwd":"qa33655","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa95636","fname":"Dawn","lname":"Marnell","email":"qa95636@worldapp.com","vndid":"qa95636","mstrvndid":"qa84566","usrtyp":"Sub-Vendor","pwd":"qa95636","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-01 10:37:27.903942
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer ecbff9c5dfeeab1b25c011de867b358a
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 609
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa17490","fname":"Anna","lname":"Woodall","email":"qa17490@worldapp.com","vndid":"qa17490","mstrvndid":"qa84566","usrtyp":"Sub-Vendor","pwd":"qa17490","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa18783","fname":"Daniel","lname":"Davis","email":"qa18783@worldapp.com","vndid":"qa18783","mstrvndid":"qa84566","usrtyp":"Sub-Vendor","pwd":"qa18783","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa84566","fname":"Melissa","lname":"Scruggs","email":"qa84566@worldapp.com","vndid":"qa84566","mstrvndid":"qa84566","usrtyp":"Vendor","pwd":"qa84566","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-01 10:47:27.687679
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 381a85f510a284341206b63d5a0496d4
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 407
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa38738","fname":"Dawn","lname":"Williams","email":"qa38738@worldapp.com","vndid":"qa38738","mstrvndid":"qa23879","usrtyp":"Sub-Vendor","pwd":"qa38738","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa95716","fname":"Keith","lname":"Woods","email":"qa95716@worldapp.com","vndid":"qa95716","mstrvndid":"qa23879","usrtyp":"Sub-Vendor","pwd":"qa95716","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-01 10:57:27.869882
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer c238544bd7f3925142eccd00fef79ea3
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa23879","fname":"Estelle","lname":"Langley","email":"qa23879@worldapp.com","vndid":"qa23879","mstrvndid":"qa23879","usrtyp":"Vendor","pwd":"qa23879","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-04 07:27:32.938293
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer dd9462d939f024f4a4ceebeab06195c4
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 603
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa16546","fname":"Meliss","lname":"Scrugg","email":"qa16546@worldapp.com","vndid":"qa16546","mstrvndid":"qa16546","usrtyp":"Vendor","pwd":"qa16546","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa32432","fname":"Melis","lname":"Scrug","email":"qa32432@worldapp.com","vndid":"qa32432","mstrvndid":"qa16546","usrtyp":"Sub-Vendor","pwd":"qa32432","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa64616","fname":"Meli","lname":"Scru","email":"qa64616@worldapp.com","vndid":"qa64616","mstrvndid":"qa16546","usrtyp":"Sub-Vendor","pwd":"qa64616","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-04 12:07:33.291184
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 3f5bd6f3d030ca551ef6062aa36efd1f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 603
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa64616","fname":"Meli","lname":"Scru","email":"qa64616@worldapp.com","vndid":"qa64616","mstrvndid":"qa16546","usrtyp":"Sub-Vendor","pwd":"qa64616","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa32432","fname":"Melis","lname":"Scrug","email":"qa32432@worldapp.com","vndid":"qa32432","mstrvndid":"qa16546","usrtyp":"Sub-Vendor","pwd":"qa32432","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa16546","fname":"Meliss","lname":"Scrugg","email":"qa16546@worldapp.com","vndid":"qa16546","mstrvndid":"qa16546","usrtyp":"Vendor","pwd":"qa16546","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 05:17:34.607517
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer cf62f18c09611c7747bf8179d96f5716
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 1015
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa84973","fname":"Ryan","lname":"Washam","email":"qa84973@worldapp.com","vndid":"qa84973","mstrvndid":"qa84973","usrtyp":"Vendor","pwd":"qa84973","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa77251","fname":"Lawanda","lname":"Ponyah","email":"qa77251@worldapp.com","vndid":"qa77251","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa77251","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa36650","fname":"John","lname":"Tanner","email":"qa36650@worldapp.com","vndid":"qa36650","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa36650","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa38749","fname":"Richard","lname":"Martin","email":"qa38749@worldapp.com","vndid":"qa38749","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa38749","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa84632","fname":"Patrick","lname":"Davis","email":"qa84632@worldapp.com","vndid":"qa84632","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa84632","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 05:47:36.648352
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer a921fb6f873a9bfeda20d6808881c0b1
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 202
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa54565","fname":"Roger","lname":"Federrer","email":"qa54565@worldapp.com","vndid":"qa54565","mstrvndid":"qa54565","usrtyp":"Vendor","pwd":"qa54565","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 05:57:34.623758
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer fc16ebee03f50b6cab76bc675b9a980d
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa54565","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 06:37:34.855176
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 78b8eba0c9ab0d65bed86065181aa88d
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 07:07:34.727247
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 1faf4ac9a1f0af39f01e3d0fd7c73942
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa54565","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 07:57:34.765309
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 422317c03a536ca95ab298a4b0313998
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa84973","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 08:27:34.913681
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer b1ab8ce25843211a4fa6f10313218382
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 203
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa54565","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 09:07:34.822836
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 0e4ef4bff9f5cedb532905e236bb0e11
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 404
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa46514","fname":"Raffa","lname":"Nadal","email":"qa46514@worldapp.com","vndid":"qa46514","mstrvndid":"qa54565","usrtyp":"Sub-Vendor","pwd":"qa46514","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa54565","fname":"Roger","lname":"Federrer","email":"qa54565@worldapp.com","vndid":"qa54565","mstrvndid":"qa54565","usrtyp":"Vendor","pwd":"qa54565","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-05 16:57:36.547759
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 8d21cd95343951c0a28fde463049384f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 211
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"test0405_1","fname":"test0405_1","lname":"0405_1","email":"test0405_1@WaTest.com","vndid":"test0405_1","mstrvndid":"test0405_1","usrtyp":"Vendor","pwd":"pwd","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-06 03:47:36.229702
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer bc01da25e8e2f94d63c1def38f9755cd
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 1820
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa57915","fname":"Thelma","lname":"Lee","email":"qa57915@worldapp.com","vndid":"qa57915","mstrvndid":"qa57915","usrtyp":"Vendor","pwd":"qa57915","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa79221","fname":"Douglas","lname":"Toft","email":"qa79221@worldapp.com","vndid":"qa79221","mstrvndid":"qa57915","usrtyp":"Sub-Vendor","pwd":"qa79221","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa84499","fname":"Jack","lname":"Grubb","email":"qa84499@worldapp.com","vndid":"qa84499","mstrvndid":"qa57915","usrtyp":"Sub-Vendor","pwd":"qa84499","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa99485","fname":"Bradley","lname":"Terrell","email":"qa99485@worldapp.com","vndid":"qa99485","mstrvndid":"qa57915","usrtyp":"Sub-Vendor","pwd":"qa99485","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa25351","fname":"Alice","lname":"Kahill","email":"qa25351@worldapp.com","vndid":"qa25351","mstrvndid":"qa57915","usrtyp":"Sub-Vendor","pwd":"qa25351","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa12009","fname":"Michael","lname":"Poe","email":"qa12009@worldapp.com","vndid":"qa12009","mstrvndid":"qa12009","usrtyp":"Vendor","pwd":"qa12009","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa36126","fname":"Karen","lname":"Williams","email":"qa36126@worldapp.com","vndid":"qa36126","mstrvndid":"qa12009","usrtyp":"Sub-Vendor","pwd":"qa36126","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa15370","fname":"Alisha","lname":"Goldsmith","email":"qa15370@worldapp.com","vndid":"qa15370","mstrvndid":"qa15370","usrtyp":"Vendor","pwd":"qa15370","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa33281","fname":"Vicki","lname":"Warren","email":"qa33281@worldapp.com","vndid":"qa33281","mstrvndid":"qa15370","usrtyp":"Sub-Vendor","pwd":"qa33281","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-06 09:17:30.524528
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer e35dce79ee102d8dc6970de85d33cd5f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 204
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa33281","fname":"Vicki","lname":"Warren","email":"qa33281@worldapp.com","vndid":"qa33281","mstrvndid":"qa15370","usrtyp":"Sub-Vendor","pwd":"qa33281","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-11 09:07:39.184778
+**************************************************
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer f72aafd441a26baf820719b31d6ff6e8
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 409
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa57915","fname":"Thelma","lname":"Lee","email":"qa57915ROMAN@worldapp.com","vndid":"qa57915","mstrvndid":"qa57915","usrtyp":"Vendor","pwd":"qa57915","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa84499","fname":"Jack","lname":"Grubb","email":"qa84499ROMAN@worldapp.com","vndid":"qa84499","mstrvndid":"qa57915","usrtyp":"Sub-Vendor","pwd":"qa84499","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 05:48:29.304319
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 612
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael","lname":"Cardona","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred","lname":"Pennick","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis","lname":"Hall","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 09:37:58.261822
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 5e71f0224f9844095e114c6d15f7229f
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 4395
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa35804","fname":"Dianne","lname":"Trevino","email":"qa35804@worldapp.com","vndid":"qa35804","mstrvndid":"qa35804","usrtyp":"Vendor","pwd":"qa35804","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa24589","fname":"Susan","lname":"Bohman","email":"qa24589@worldapp.com","vndid":"qa24589","mstrvndid":"qa35804","usrtyp":"Sub-Vendor","pwd":"qa24589","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"}]
+
+**************************************************
+2016-04-22 10:37:58.329865
+**************************************************
+START LINE:
+***
+POST 10.24.64.112:5000 HTTP/1.1
+
+HEADER:
+***
+ACCEPT: text/plain, application/json, application/*+json, */*
+USER-AGENT: Mozilla/5.0
+ACCEPT-LANGUAGE: en-US,en;q=0.5
+CONTENT-TYPE: application/json
+AUTHORIZATION: Bearer 843b8de95d0499d501d678046cb2f6b5
+ACCEPT-CHARSET: big5, big5-hkscs, cesu-8, euc-jp, euc-kr, gb18030, gb2312, gbk, ibm-thai, ibm00858, ibm01140, ibm01141, ibm01142, ibm01143, ibm01144, ibm01145, ibm01146, ibm01147, ibm01148, ibm01149, ibm037, ibm1026, ibm1047, ibm273, ibm277, ibm278, ibm280, ibm284, ibm285, ibm290, ibm297, ibm420, ibm424, ibm437, ibm500, ibm775, ibm850, ibm852, ibm855, ibm857, ibm860, ibm861, ibm862, ibm863, ibm864, ibm865, ibm866, ibm868, ibm869, ibm870, ibm871, ibm918, iso-2022-cn, iso-2022-jp, iso-2022-jp-2, iso-2022-kr, iso-8859-1, iso-8859-13, iso-8859-15, iso-8859-2, iso-8859-3, iso-8859-4, iso-8859-5, iso-8859-6, iso-8859-7, iso-8859-8, iso-8859-9, jis_x0201, jis_x0212-1990, koi8-r, koi8-u, shift_jis, tis-620, us-ascii, utf-16, utf-16be, utf-16le, utf-32, utf-32be, utf-32le, utf-8, windows-1250, windows-1251, windows-1252, windows-1253, windows-1254, windows-1255, windows-1256, windows-1257, windows-1258, windows-31j, x-big5-hkscs-2001, x-big5-solaris, x-compound_text, x-euc-jp-linux, x-euc-tw, x-eucjp-open, x-ibm1006, x-ibm1025, x-ibm1046, x-ibm1097, x-ibm1098, x-ibm1112, x-ibm1122, x-ibm1123, x-ibm1124, x-ibm1166, x-ibm1364, x-ibm1381, x-ibm1383, x-ibm300, x-ibm33722, x-ibm737, x-ibm833, x-ibm834, x-ibm856, x-ibm874, x-ibm875, x-ibm921, x-ibm922, x-ibm930, x-ibm933, x-ibm935, x-ibm937, x-ibm939, x-ibm942, x-ibm942c, x-ibm943, x-ibm943c, x-ibm948, x-ibm949, x-ibm949c, x-ibm950, x-ibm964, x-ibm970, x-iscii91, x-iso-2022-cn-cns, x-iso-2022-cn-gb, x-iso-8859-11, x-jis0208, x-jisautodetect, x-johab, x-macarabic, x-maccentraleurope, x-maccroatian, x-maccyrillic, x-macdingbat, x-macgreek, x-machebrew, x-maciceland, x-macroman, x-macromania, x-macsymbol, x-macthai, x-macturkish, x-macukraine, x-ms932_0213, x-ms950-hkscs, x-ms950-hkscs-xp, x-mswin-936, x-pck, x-sjis_0213, x-utf-16le-bom, x-utf-32be-bom, x-utf-32le-bom, x-windows-50220, x-windows-50221, x-windows-874, x-windows-949, x-windows-950, x-windows-iso2022jp
+CONTENT-LENGTH: 666
+HOST: 10.24.64.112:5000
+CONNECTION: Keep-Alive
+ACCEPT-ENCODING: gzip,deflate
+
+BODY:
+***
+[{"qcid":"WA_TEST","userid":"qa76808","fname":"Dennis Changed3","lname":"Hall Changed3","email":"qa76808@worldapp.com","vndid":"qa76808","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa76808","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa63328","fname":"Winifred Changed3","lname":"Pennick Changed3","email":"qa63328@worldapp.com","vndid":"qa63328","mstrvndid":"qa72377","usrtyp":"Sub-Vendor","pwd":"qa63328","messageCode":"USR_OK"},{"qcid":"WA_TEST","userid":"qa72377","fname":"Michael Changed3","lname":"Cardona Changed3","email":"qa72377@worldapp.com","vndid":"qa72377","mstrvndid":"qa72377","usrtyp":"Vendor","pwd":"qa72377","messageCode":"USR_OK"}]

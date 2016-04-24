@@ -5,7 +5,7 @@ from config.conf import cfg
 
 uri = []
 
-host = cfg["service"]["home"]["host"]
+host = "http://" + cfg["service"]["home"]["host"]
 port = cfg["service"]["home"]["port"]
 
 for listener in cfg["server"].values():
@@ -14,7 +14,7 @@ for listener in cfg["server"].values():
 
 @pytest.fixture(params=uri)
 def connection(request):
-    resp = requests.get(request.param)
+    resp = requests.get(request.param, data = "Hallo!!!")
     return resp
 
 def test_0001_home(connection):

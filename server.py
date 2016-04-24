@@ -1,9 +1,12 @@
 from aiohttp import web
+import asyncio
 
 from handles.handles import *
 from config.conf import cfg
 
-app = web.Application()
+main_loop = asyncio.get_event_loop()
+
+app = web.Application(loop=main_loop)
 
 for listener in cfg["server"].values():
     for method in listener.values():
@@ -12,4 +15,5 @@ for listener in cfg["server"].values():
                              method["endpoint"],
                              eval(method["handle"]))
 
-web.run_app(app)
+web.run_app(app, host=cfg["service"]["home"]["host"],
+            port=cfg["service"]["home"]["port"][1:5])
